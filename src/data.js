@@ -1,0 +1,98 @@
+export const moveOutList = [
+    {
+        id: 1,
+        moveOutDate: 'Jan 1 2020',
+        userId: 42312,
+        address: '2623 Honeysuckle Rd. NW',
+        imgUrl: 'https://images.pexels.com/photos/12172737/pexels-photo-12172737.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+        rooms: 3,
+        location: 'Atlanta GA',
+        lastOccupant: 'Melissa Banks',
+        uid: 89029,
+        balance: '$405.90'
+    },
+    {
+        id: 2,
+        moveOutDate: 'Jan 12 2020',
+        userId: 63451,
+        address: '9870 Colonial Ave.',
+        rooms: 2,
+        imgUrl: 'https://images.pexels.com/photos/12172737/pexels-photo-12172737.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+        location: 'Decatur GA',
+        lastOccupant: 'Frankie Vox',
+        uid: 89029,
+        balance: '$405.90'
+    },
+    {
+        id: 3,
+        moveOutDate: 'Jan 18 2020',
+        userId: 12341,
+        address: '1822 Riverside Dr. SW',
+        rooms: 2,
+        imgUrl: 'https://images.pexels.com/photos/12172737/pexels-photo-12172737.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+        location: 'Atlanta GA',
+        lastOccupant: 'Harry Rutherford',
+        uid: 89029,
+        balance: '$405.90'
+    },
+    {
+        id: 4,
+        moveOutDate: 'Jan 18 2020',
+        userId: 12341,
+        address: '1822 Riverside Dr. SW',
+        rooms: 6,
+        imgUrl: 'https://images.pexels.com/photos/12172737/pexels-photo-12172737.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+        location: 'Atlanta GA',
+        lastOccupant: 'Harry Rutherford',
+        uid: 89029,
+        balance: '$405.90'
+    },
+    {
+        id: 5,
+        moveOutDate: 'Jan 18 2020',
+        userId: 73452,
+        address: '990 Garden St.',
+        rooms: 4,
+        imgUrl: 'https://images.pexels.com/photos/12172737/pexels-photo-12172737.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+        location: 'Decatur GA',
+        lastOccupant: 'Clark Brast',
+        uid: 89029,
+        balance: '$405.90'
+    },
+    {
+        id: 6,
+        moveOutDate: 'Jan 18 2020',
+        userId: 98745,
+        address: '3548 Moose Rd. NE Apt 90',
+        rooms: 1,
+        imgUrl: 'https://images.pexels.com/photos/12172737/pexels-photo-12172737.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+        location: 'Buckhead GA',
+        lastOccupant: 'Eric Van',
+        uid: 89029,
+        balance: '$405.90'
+    },
+    {
+        id: 7,
+        moveOutDate: 'Jan 20 2020',
+        userId: 23461,
+        address: '7659 Brookfield Ave.',
+        rooms: 5,
+        imgUrl: 'https://images.pexels.com/photos/12172737/pexels-photo-12172737.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+        location: 'Morrow GA',
+        lastOccupant: 'Jerry Tallah',
+        uid: 89029,
+        balance: '$405.90'
+    },
+    {
+        id: 8,
+        moveOutDate: 'Feb 02 2020',
+        userId: 63456,
+        address: '390 Washington Rd.',
+        rooms: 3,
+        imgUrl: 'https://images.pexels.com/photos/12172737/pexels-photo-12172737.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+        location: 'Atlanta GA',
+        lastOccupant: 'Olivia Darks',
+        uid: 89029,
+        balance: '$405.90'
+    },
+]

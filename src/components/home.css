@@ -1,0 +1,54 @@
+.home {
+  display: flex;
+  flex-direction: column;
+  margin: 4rem 5rem;
+}
+
+.home > h1 {
+  margin-bottom: 2rem;
+  font-weight: bold;
+}
+
+th {
+  font-size: 15px;
+}
+
+td {
+  font-size: 15px;
+}
+
+.home-btn {
+  cursor: pointer;
+  color: blue;
+  border-radius: 5px;
+  border: 1px solid gray;
+  background: white;
+  padding: 4px 10px;
+  font-size: 12px;
+}
+
+.home-btn:hover {
+    background: rgb(56, 56, 231);
+    color: white;
+}
+
+.img {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-right: 0.7rem;
+}
+
+@media screen and (max-width: 768px){
+  .home {
+    margin: 2rem;
+  }
+  th {
+    font-size: 12px;
+  }
+  td {
+    font-size: 12px;
+  }
+
+}
+
